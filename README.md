@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sventura102
-- 👀 I’m interested in gaming, working out, and coding.
-- 🌱 I’m currently learning Visual Media & Webfront Developing
+- 👋 Hi, I’m Stephanie Ventura
+- 👀 I’m interested in gaming, reading, and coding.
+- 🌱 I’m currently majoring in Computer Science, Web Development
 - 📫 How to reach me: E-mail: sventura102@gmail.com
 
 <!---
